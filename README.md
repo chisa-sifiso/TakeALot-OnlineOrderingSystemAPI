@@ -22,7 +22,7 @@
 
 <h3>Prerequisites</h3>
 <ul>
-  <li>Java 11 or higher</li>
+  <li>Java 17 or higher</li>
   <li>IntelliJ IDEA or any preferred Java IDE</li>
   <li>Postman or any API testing tool</li>
 </ul>
