@@ -68,7 +68,7 @@
 </ul>
 
 <h2>🤝 Contributing</h2>
-<p>Feel free to fork this repository and submit pull requests for improvements or new features.</p>
+<p>Sifiso vinjwa.</p>
 
 <h2>📄 License</h2>
 <p>This project is licensed under the MIT License.</p>
